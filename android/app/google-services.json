@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754859991172",
+    "project_id": "chat-app-5e868",
+    "storage_bucket": "chat-app-5e868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754859991172:android:c0107dbe82dd306f66a2d1",
+        "android_client_info": {
+          "package_name": "com.RomarioLendo.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754859991172-dvll9k1ml5cq4eb6la8lkoiaboeqfct9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClEpOIbyeJUkky13F9sgj6p7vrnYj9N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754859991172-dvll9k1ml5cq4eb6la8lkoiaboeqfct9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
