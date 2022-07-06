@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+Sebuah Aplikasi chating sederhana yang terintegrasi ke Firebase
 
 ## Getting Started
 
